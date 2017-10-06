@@ -1,0 +1,8 @@
+C:\Users\Patrick\Desktop\trial dotnet projs\CowansGame\bin\Debug\netcoreapp1.1\CowansGame.deps.json
+C:\Users\Patrick\Desktop\trial dotnet projs\CowansGame\bin\Debug\netcoreapp1.1\CowansGame.runtimeconfig.json
+C:\Users\Patrick\Desktop\trial dotnet projs\CowansGame\bin\Debug\netcoreapp1.1\CowansGame.runtimeconfig.dev.json
+C:\Users\Patrick\Desktop\trial dotnet projs\CowansGame\bin\Debug\netcoreapp1.1\CowansGame.dll
+C:\Users\Patrick\Desktop\trial dotnet projs\CowansGame\bin\Debug\netcoreapp1.1\CowansGame.pdb
+C:\Users\Patrick\Desktop\trial dotnet projs\CowansGame\obj\Debug\netcoreapp1.1\CowansGame.AssemblyInfo.cs
+C:\Users\Patrick\Desktop\trial dotnet projs\CowansGame\obj\Debug\netcoreapp1.1\CowansGame.dll
+C:\Users\Patrick\Desktop\trial dotnet projs\CowansGame\obj\Debug\netcoreapp1.1\CowansGame.pdb

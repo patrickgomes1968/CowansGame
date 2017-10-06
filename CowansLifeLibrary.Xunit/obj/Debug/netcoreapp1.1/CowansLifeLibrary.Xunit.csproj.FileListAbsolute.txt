@@ -1,0 +1,13 @@
+C:\Users\Patrick\Desktop\trial dotnet projs\CowansGame\CowansLifeLibrary.Xunit\bin\Debug\netcoreapp1.1\CowansLifeLibrary.Xunit.deps.json
+C:\Users\Patrick\Desktop\trial dotnet projs\CowansGame\CowansLifeLibrary.Xunit\bin\Debug\netcoreapp1.1\CowansLifeLibrary.Xunit.runtimeconfig.json
+C:\Users\Patrick\Desktop\trial dotnet projs\CowansGame\CowansLifeLibrary.Xunit\bin\Debug\netcoreapp1.1\CowansLifeLibrary.Xunit.runtimeconfig.dev.json
+C:\Users\Patrick\Desktop\trial dotnet projs\CowansGame\CowansLifeLibrary.Xunit\obj\Debug\netcoreapp1.1\CowansLifeLibrary.Xunit.AssemblyInfo.cs
+C:\Users\Patrick\Desktop\trial dotnet projs\CowansGame\CowansLifeLibrary.Xunit\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Patrick\Desktop\trial dotnet projs\CowansGame\CowansLifeLibrary.Xunit\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\Patrick\Desktop\trial dotnet projs\CowansGame\CowansLifeLibrary.Xunit\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\Patrick\Desktop\trial dotnet projs\CowansGame\CowansLifeLibrary.Xunit\bin\Debug\netcoreapp1.1\CowansLifeLibrary.Xunit.dll
+C:\Users\Patrick\Desktop\trial dotnet projs\CowansGame\CowansLifeLibrary.Xunit\bin\Debug\netcoreapp1.1\CowansLifeLibrary.Xunit.pdb
+C:\Users\Patrick\Desktop\trial dotnet projs\CowansGame\CowansLifeLibrary.Xunit\bin\Debug\netcoreapp1.1\CowansGameLibrary.dll
+C:\Users\Patrick\Desktop\trial dotnet projs\CowansGame\CowansLifeLibrary.Xunit\bin\Debug\netcoreapp1.1\CowansGameLibrary.pdb
+C:\Users\Patrick\Desktop\trial dotnet projs\CowansGame\CowansLifeLibrary.Xunit\obj\Debug\netcoreapp1.1\CowansLifeLibrary.Xunit.dll
+C:\Users\Patrick\Desktop\trial dotnet projs\CowansGame\CowansLifeLibrary.Xunit\obj\Debug\netcoreapp1.1\CowansLifeLibrary.Xunit.pdb
